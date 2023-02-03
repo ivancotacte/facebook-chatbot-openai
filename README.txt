@@ -13,4 +13,4 @@ You can edit or change the owner.
 If you have any questions, feel free to send them to:
 Twitter: https://twitter.com/miruchigawa
 Facebook: https://www.facebook.com/kritoz.ae
-Website: https://miruchi.vercel.app
+Website: https://miftahfauzan.netlify.app
