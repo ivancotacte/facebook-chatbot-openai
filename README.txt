@@ -1,3 +1,7 @@
+⚠️ Important 
+This project is no longer being continued, maybe someday there will be a new project with command templates in it
+
+
 Hello, this is my project for this time I'm making a Facebook bot with OpenAi inside it, this is a simple coding and maybe not so neat inside.
 
 I'll just explain some of the functions and uses of this bot.
